@@ -1,0 +1,14 @@
+C:\Prathamesh\Sample Codes\ProductMicroservice\ProductMicroservice\obj\Debug\netcoreapp2.2\ProductMicroservice.csproj.CoreCompileInputs.cache
+C:\Prathamesh\Sample Codes\ProductMicroservice\ProductMicroservice\obj\Debug\netcoreapp2.2\ProductMicroservice.AssemblyInfoInputs.cache
+C:\Prathamesh\Sample Codes\ProductMicroservice\ProductMicroservice\obj\Debug\netcoreapp2.2\ProductMicroservice.AssemblyInfo.cs
+C:\Prathamesh\Sample Codes\ProductMicroservice\ProductMicroservice\bin\Debug\netcoreapp2.2\ProductMicroservice.deps.json
+C:\Prathamesh\Sample Codes\ProductMicroservice\ProductMicroservice\bin\Debug\netcoreapp2.2\ProductMicroservice.runtimeconfig.json
+C:\Prathamesh\Sample Codes\ProductMicroservice\ProductMicroservice\bin\Debug\netcoreapp2.2\ProductMicroservice.runtimeconfig.dev.json
+C:\Prathamesh\Sample Codes\ProductMicroservice\ProductMicroservice\bin\Debug\netcoreapp2.2\ProductMicroservice.dll
+C:\Prathamesh\Sample Codes\ProductMicroservice\ProductMicroservice\obj\Debug\netcoreapp2.2\ProductMicroservice.csprojAssemblyReference.cache
+C:\Prathamesh\Sample Codes\ProductMicroservice\ProductMicroservice\obj\Debug\netcoreapp2.2\ProductMicroservice.RazorAssemblyInfo.cache
+C:\Prathamesh\Sample Codes\ProductMicroservice\ProductMicroservice\obj\Debug\netcoreapp2.2\ProductMicroservice.RazorAssemblyInfo.cs
+C:\Prathamesh\Sample Codes\ProductMicroservice\ProductMicroservice\obj\Debug\netcoreapp2.2\ProductMicroservice.RazorTargetAssemblyInfo.cache
+C:\Prathamesh\Sample Codes\ProductMicroservice\ProductMicroservice\bin\Debug\netcoreapp2.2\ProductMicroservice.pdb
+C:\Prathamesh\Sample Codes\ProductMicroservice\ProductMicroservice\obj\Debug\netcoreapp2.2\ProductMicroservice.dll
+C:\Prathamesh\Sample Codes\ProductMicroservice\ProductMicroservice\obj\Debug\netcoreapp2.2\ProductMicroservice.pdb
